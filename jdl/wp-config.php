@@ -22,6 +22,8 @@
  //Added by WP-Cache Manager
 define('DB_NAME', 'joinerydev_jdl');
 
+/** A new comment inserted here */
+
 /** MySQL database username */
 define('DB_USER', 'joinerydev_jdl');
 
